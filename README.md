@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🚀 About Me
 
 - 💻 Frontend Developer
@@ -17,7 +17,7 @@
 - 🎨 Passionate about UI/UX Design
 - 📱 Responsive Web Design
 - ⚡ Always learning new technologies
-
+</p>
 ---
 
 ## 🛠 Tech Stack
