@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Jirsttikan , Welcome to my github profile</h1>
+<img width="1677" height="812" alt="image" src="https://github.com/user-attachments/assets/c0de25a4-1674-4c2c-9e31-877a9f7d22c5" /><h1 align="center">Hi I'm Jirsttikan , Welcome to my github profile</h1>
 
 
 <p align="center">
@@ -28,13 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Portfolio
 
@@ -42,5 +35,5 @@
 
 ## 📫 Contact
 
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourname
+- Email: Jirattikan.jk@gmail.com
+- Email: Serorock19@gmail.com
