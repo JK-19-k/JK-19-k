@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [ชื่อของคุณ]</h1>
-<h3 align="center">Frontend Developer from Thailand 🇹🇭</h3>
+<h1 align="center">Hi I'm Jirsttikan , Welcome to my github profile</h1>
+
 
 <p align="center">
 I enjoy building modern, responsive, and user-friendly web applications.
