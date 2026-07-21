@@ -2,7 +2,10 @@
 
 
 <p align="center">
-I enjoy building modern, responsive, and user-friendly web applications.
+╔══════════════════════════════════════╗
+        Frontend Developer
+      UI/UX • Responsive Design
+╚══════════════════════════════════════╝
 </p>
 
 ---
