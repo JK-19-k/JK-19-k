@@ -4,7 +4,7 @@
 <p align="center">
 ╔══════════════════════════════════════╗ <br>
         Frontend Developer
-      UI/UX • Responsive Design
+      UI/UX • Responsive Design <br>
 ╚══════════════════════════════════════╝
 </p>
 
